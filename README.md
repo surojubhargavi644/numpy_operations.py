@@ -1,9 +1,9 @@
 # TASK 16: Numerical Computing Using NumPy
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates numerical computing using NumPy in Python. It covers array creation, mathematical operations, broadcasting, statistical functions, performance comparison, random data generation, and optimization techniques.
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - NumPy
 - VS Code
